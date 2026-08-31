@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\BlueprintCAD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D529383-2DE8-8D98-580D-BB8E135A47C6}|src\\BlueprintCAD\\BlueprintCAD.vbproj|g:\\blueprintcad\\src\\blueprintcad\\celldesigner\\formannotation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D529383-2DE8-8D98-580D-BB8E135A47C6}|src\\BlueprintCAD\\BlueprintCAD.vbproj|solutionrelative:src\\blueprintcad\\celldesigner\\formannotation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FB6A235-3C18-8035-3BF1-50C398A29BC9}|..\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\datavisual-netcore5.vbproj|g:\\gcmodeller\\src\\gcmodeller\\visualize\\datavisualizationextensions\\samplecolorbend.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -16,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 194,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,28 +32,37 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormAnnotation.vb",
+              "DocumentMoniker": "G:\\BlueprintCAD\\src\\BlueprintCAD\\CellDesigner\\FormAnnotation.vb",
+              "RelativeDocumentMoniker": "src\\BlueprintCAD\\CellDesigner\\FormAnnotation.vb",
+              "ToolTip": "G:\\BlueprintCAD\\src\\BlueprintCAD\\CellDesigner\\FormAnnotation.vb",
+              "RelativeToolTip": "src\\BlueprintCAD\\CellDesigner\\FormAnnotation.vb",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAkwC8BAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-31T08:44:59.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SampleColorBend.vb",
               "DocumentMoniker": "G:\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\SampleColorBend.vb",
               "RelativeDocumentMoniker": "..\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\SampleColorBend.vb",
               "ToolTip": "G:\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\SampleColorBend.vb",
               "RelativeToolTip": "..\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\SampleColorBend.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-07-14T01:47:25.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PatternPlot.vb",
               "DocumentMoniker": "G:\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\ExpressionPattern\\PatternPlot.vb",
               "RelativeDocumentMoniker": "..\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\ExpressionPattern\\PatternPlot.vb",
@@ -57,8 +70,7 @@
               "RelativeToolTip": "..\\GCModeller\\src\\GCModeller\\visualize\\DataVisualizationExtensions\\ExpressionPattern\\PatternPlot.vb",
               "ViewState": "AgIAAIkAAAAAAAAAAAAgwKcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-07-14T01:46:50.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T01:46:50.987Z"
             }
           ]
         },
